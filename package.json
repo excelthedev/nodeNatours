@@ -1,0 +1,15 @@
+{
+  "name": "natoursapi",
+  "version": "1.0.0",
+  "description": "the natours api, learning using express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "excelthedev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
